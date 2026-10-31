@@ -1,0 +1,58 @@
+{
+  "name": "regulatory-change-impact-agent",
+  "version": "1.0.0",
+  "description": "Regulatory data ingestion server for Regulatory Change Impact Agent",
+  "main": "dist/server.js",
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "build": "rimraf dist && tsc",
+    "start": "node dist/server.js",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit",
+    "extract": "tsx src/cli/monitor.ts",
+    "ingest:supabase": "tsx scripts/ingest-html.ts",
+    "compare": "tsx src/cli/status.ts",
+    "status": "tsx src/cli/status.ts",
+    "smoke": "tsx src/cli/smoke.ts"
+  },
+  "scriptsComments": {
+    "npm run compare (or npm run status)": "Comparison: compares live public portal documents against local disk storage, verifies physical presence, and auto-syncs any missing files.",
+    "npm run extract": "Extraction: runs the ingestion & extraction engine across all regulatory sources to download and parse circulars.",
+    "npm run dev": "Server: starts the Express API server on port 4000 (with background cron scheduler every 15m)."
+  },
+  "keywords": [
+    "regulatory",
+    "ingestion",
+    "compliance",
+    "banking"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.118.0",
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mammoth": "^1.8.0",
+    "node-cron": "^3.0.3",
+    "pdf-parse": "^1.1.1",
+    "pino": "^9.6.0",
+    "pino-pretty": "^13.0.0",
+    "rss-parser": "^3.13.0",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^22.10.2",
+    "@types/node-cron": "^3.0.11",
+    "@types/pdf-parse": "^1.1.4",
+    "@types/supertest": "^6.0.2",
+    "rimraf": "^6.0.1",
+    "supertest": "^7.0.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "vitest": "^2.1.8"
+  }
+}

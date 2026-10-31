@@ -1,0 +1,2132 @@
+[
+  {
+    "id": "run-1793437896181-90daf4ff",
+    "startedAt": "2026-10-31T09:11:36.181Z",
+    "completedAt": null,
+    "status": "running",
+    "triggeredBy": "manual",
+    "targetSourceKey": "rbi",
+    "sourcesChecked": [
+      "rbi"
+    ],
+    "discoveredCount": 0,
+    "newCount": 0,
+    "updatedCount": 0,
+    "skippedCount": 0,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {},
+    "error": null
+  },
+  {
+    "id": "run-1793437895789-f7a6cadf",
+    "startedAt": "2026-10-31T09:11:35.789Z",
+    "completedAt": "2026-10-31T09:11:35.797Z",
+    "status": "completed",
+    "triggeredBy": "manual",
+    "targetSourceKey": "sama",
+    "sourcesChecked": [
+      "sama"
+    ],
+    "discoveredCount": 0,
+    "newCount": 0,
+    "updatedCount": 0,
+    "skippedCount": 0,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "success",
+        "discovered": 0,
+        "new": 0,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793437895742-9505b111",
+    "startedAt": "2026-10-31T09:11:35.742Z",
+    "completedAt": "2026-10-31T09:11:35.783Z",
+    "status": "completed",
+    "triggeredBy": "manual",
+    "targetSourceKey": null,
+    "sourcesChecked": [
+      "sama",
+      "cbuae",
+      "rbi",
+      "cbk"
+    ],
+    "discoveredCount": 2,
+    "newCount": 2,
+    "updatedCount": 0,
+    "skippedCount": 0,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "failed",
+        "discovered": 0,
+        "new": 0,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": [
+          "SAMA connection timeout simulation"
+        ]
+      },
+      "cbuae": {
+        "sourceKey": "cbuae",
+        "status": "success",
+        "discovered": 1,
+        "new": 1,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "rbi": {
+        "sourceKey": "rbi",
+        "status": "success",
+        "discovered": 1,
+        "new": 1,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbk": {
+        "sourceKey": "cbk",
+        "status": "success",
+        "discovered": 0,
+        "new": 0,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793437799986-e2942ff0",
+    "startedAt": "2026-10-31T09:09:59.987Z",
+    "completedAt": null,
+    "status": "running",
+    "triggeredBy": "manual",
+    "targetSourceKey": "rbi",
+    "sourcesChecked": [
+      "rbi"
+    ],
+    "discoveredCount": 0,
+    "newCount": 0,
+    "updatedCount": 0,
+    "skippedCount": 0,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {},
+    "error": null
+  },
+  {
+    "id": "run-1793437799682-df266efc",
+    "startedAt": "2026-10-31T09:09:59.682Z",
+    "completedAt": "2026-10-31T09:09:59.692Z",
+    "status": "completed",
+    "triggeredBy": "manual",
+    "targetSourceKey": "sama",
+    "sourcesChecked": [
+      "sama"
+    ],
+    "discoveredCount": 0,
+    "newCount": 0,
+    "updatedCount": 0,
+    "skippedCount": 0,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "success",
+        "discovered": 0,
+        "new": 0,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793437799634-3eb3ed2f",
+    "startedAt": "2026-10-31T09:09:59.634Z",
+    "completedAt": "2026-10-31T09:09:59.673Z",
+    "status": "completed",
+    "triggeredBy": "manual",
+    "targetSourceKey": null,
+    "sourcesChecked": [
+      "sama",
+      "cbuae",
+      "rbi",
+      "cbk"
+    ],
+    "discoveredCount": 2,
+    "newCount": 2,
+    "updatedCount": 0,
+    "skippedCount": 0,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "failed",
+        "discovered": 0,
+        "new": 0,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": [
+          "SAMA connection timeout simulation"
+        ]
+      },
+      "cbuae": {
+        "sourceKey": "cbuae",
+        "status": "success",
+        "discovered": 1,
+        "new": 1,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "rbi": {
+        "sourceKey": "rbi",
+        "status": "success",
+        "discovered": 1,
+        "new": 1,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbk": {
+        "sourceKey": "cbk",
+        "status": "success",
+        "discovered": 0,
+        "new": 0,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793437070669-fbbae5f9",
+    "startedAt": "2026-10-31T08:57:50.669Z",
+    "completedAt": "2026-10-31T08:57:57.352Z",
+    "status": "completed",
+    "triggeredBy": "cli",
+    "targetSourceKey": null,
+    "sourcesChecked": [
+      "sama",
+      "cbuae",
+      "rbi",
+      "cbk"
+    ],
+    "discoveredCount": 40,
+    "newCount": 1,
+    "updatedCount": 0,
+    "skippedCount": 39,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "success",
+        "discovered": 10,
+        "new": 1,
+        "updated": 0,
+        "skipped": 9,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbuae": {
+        "sourceKey": "cbuae",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "rbi": {
+        "sourceKey": "rbi",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbk": {
+        "sourceKey": "cbk",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793436981788-eccd90b6",
+    "startedAt": "2026-10-31T08:56:21.789Z",
+    "completedAt": null,
+    "status": "running",
+    "triggeredBy": "manual",
+    "targetSourceKey": "rbi",
+    "sourcesChecked": [
+      "rbi"
+    ],
+    "discoveredCount": 0,
+    "newCount": 0,
+    "updatedCount": 0,
+    "skippedCount": 0,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {},
+    "error": null
+  },
+  {
+    "id": "run-1793436981493-9d5ea97e",
+    "startedAt": "2026-10-31T08:56:21.493Z",
+    "completedAt": "2026-10-31T08:56:21.502Z",
+    "status": "completed",
+    "triggeredBy": "manual",
+    "targetSourceKey": "sama",
+    "sourcesChecked": [
+      "sama"
+    ],
+    "discoveredCount": 0,
+    "newCount": 0,
+    "updatedCount": 0,
+    "skippedCount": 0,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "success",
+        "discovered": 0,
+        "new": 0,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793436981446-59c5b825",
+    "startedAt": "2026-10-31T08:56:21.447Z",
+    "completedAt": "2026-10-31T08:56:21.486Z",
+    "status": "completed",
+    "triggeredBy": "manual",
+    "targetSourceKey": null,
+    "sourcesChecked": [
+      "sama",
+      "cbuae",
+      "rbi",
+      "cbk"
+    ],
+    "discoveredCount": 2,
+    "newCount": 2,
+    "updatedCount": 0,
+    "skippedCount": 0,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "failed",
+        "discovered": 0,
+        "new": 0,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": [
+          "SAMA connection timeout simulation"
+        ]
+      },
+      "cbuae": {
+        "sourceKey": "cbuae",
+        "status": "success",
+        "discovered": 1,
+        "new": 1,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "rbi": {
+        "sourceKey": "rbi",
+        "status": "success",
+        "discovered": 1,
+        "new": 1,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbk": {
+        "sourceKey": "cbk",
+        "status": "success",
+        "discovered": 0,
+        "new": 0,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793436936836-866f0fb2",
+    "startedAt": "2026-10-31T08:55:36.837Z",
+    "completedAt": "2026-10-31T08:55:40.757Z",
+    "status": "completed",
+    "triggeredBy": "cli",
+    "targetSourceKey": null,
+    "sourcesChecked": [
+      "sama",
+      "cbuae",
+      "rbi",
+      "cbk"
+    ],
+    "discoveredCount": 40,
+    "newCount": 1,
+    "updatedCount": 0,
+    "skippedCount": 39,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbuae": {
+        "sourceKey": "cbuae",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "rbi": {
+        "sourceKey": "rbi",
+        "status": "success",
+        "discovered": 10,
+        "new": 1,
+        "updated": 0,
+        "skipped": 9,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbk": {
+        "sourceKey": "cbk",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793436782155-cf6ffdf6",
+    "startedAt": "2026-10-31T08:53:02.155Z",
+    "completedAt": "2026-10-31T08:53:06.304Z",
+    "status": "completed",
+    "triggeredBy": "cli",
+    "targetSourceKey": null,
+    "sourcesChecked": [
+      "sama",
+      "cbuae",
+      "rbi",
+      "cbk"
+    ],
+    "discoveredCount": 40,
+    "newCount": 1,
+    "updatedCount": 0,
+    "skippedCount": 39,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbuae": {
+        "sourceKey": "cbuae",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "rbi": {
+        "sourceKey": "rbi",
+        "status": "success",
+        "discovered": 10,
+        "new": 1,
+        "updated": 0,
+        "skipped": 9,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbk": {
+        "sourceKey": "cbk",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793436750066-acbc326f",
+    "startedAt": "2026-10-31T08:52:30.066Z",
+    "completedAt": "2026-10-31T08:52:35.511Z",
+    "status": "completed",
+    "triggeredBy": "cli",
+    "targetSourceKey": null,
+    "sourcesChecked": [
+      "sama",
+      "cbuae",
+      "rbi",
+      "cbk"
+    ],
+    "discoveredCount": 40,
+    "newCount": 1,
+    "updatedCount": 0,
+    "skippedCount": 39,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbuae": {
+        "sourceKey": "cbuae",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "rbi": {
+        "sourceKey": "rbi",
+        "status": "success",
+        "discovered": 10,
+        "new": 1,
+        "updated": 0,
+        "skipped": 9,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbk": {
+        "sourceKey": "cbk",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793436703045-916bf0b1",
+    "startedAt": "2026-10-31T08:51:43.045Z",
+    "completedAt": "2026-10-31T08:51:48.707Z",
+    "status": "completed",
+    "triggeredBy": "cli",
+    "targetSourceKey": null,
+    "sourcesChecked": [
+      "sama",
+      "cbuae",
+      "rbi",
+      "cbk"
+    ],
+    "discoveredCount": 40,
+    "newCount": 0,
+    "updatedCount": 0,
+    "skippedCount": 40,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbuae": {
+        "sourceKey": "cbuae",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "rbi": {
+        "sourceKey": "rbi",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbk": {
+        "sourceKey": "cbk",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793436675793-2d270220",
+    "startedAt": "2026-10-31T08:51:15.794Z",
+    "completedAt": "2026-10-31T08:51:21.490Z",
+    "status": "completed",
+    "triggeredBy": "cli",
+    "targetSourceKey": null,
+    "sourcesChecked": [
+      "sama",
+      "cbuae",
+      "rbi",
+      "cbk"
+    ],
+    "discoveredCount": 40,
+    "newCount": 0,
+    "updatedCount": 0,
+    "skippedCount": 40,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbuae": {
+        "sourceKey": "cbuae",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "rbi": {
+        "sourceKey": "rbi",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbk": {
+        "sourceKey": "cbk",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793436654054-17f27028",
+    "startedAt": "2026-10-31T08:50:54.054Z",
+    "completedAt": null,
+    "status": "running",
+    "triggeredBy": "manual",
+    "targetSourceKey": "rbi",
+    "sourcesChecked": [
+      "rbi"
+    ],
+    "discoveredCount": 0,
+    "newCount": 0,
+    "updatedCount": 0,
+    "skippedCount": 0,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {},
+    "error": null
+  },
+  {
+    "id": "run-1793436653772-79fddd54",
+    "startedAt": "2026-10-31T08:50:53.772Z",
+    "completedAt": "2026-10-31T08:50:53.781Z",
+    "status": "completed",
+    "triggeredBy": "manual",
+    "targetSourceKey": "sama",
+    "sourcesChecked": [
+      "sama"
+    ],
+    "discoveredCount": 0,
+    "newCount": 0,
+    "updatedCount": 0,
+    "skippedCount": 0,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "success",
+        "discovered": 0,
+        "new": 0,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793436653726-66656b1b",
+    "startedAt": "2026-10-31T08:50:53.726Z",
+    "completedAt": "2026-10-31T08:50:53.766Z",
+    "status": "completed",
+    "triggeredBy": "manual",
+    "targetSourceKey": null,
+    "sourcesChecked": [
+      "sama",
+      "cbuae",
+      "rbi",
+      "cbk"
+    ],
+    "discoveredCount": 2,
+    "newCount": 2,
+    "updatedCount": 0,
+    "skippedCount": 0,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "failed",
+        "discovered": 0,
+        "new": 0,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": [
+          "SAMA connection timeout simulation"
+        ]
+      },
+      "cbuae": {
+        "sourceKey": "cbuae",
+        "status": "success",
+        "discovered": 1,
+        "new": 1,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "rbi": {
+        "sourceKey": "rbi",
+        "status": "success",
+        "discovered": 1,
+        "new": 1,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbk": {
+        "sourceKey": "cbk",
+        "status": "success",
+        "discovered": 0,
+        "new": 0,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793436540863-a0016502",
+    "startedAt": "2026-10-31T08:49:00.863Z",
+    "completedAt": "2026-10-31T08:49:10.536Z",
+    "status": "completed",
+    "triggeredBy": "cli",
+    "targetSourceKey": null,
+    "sourcesChecked": [
+      "sama",
+      "cbuae",
+      "rbi",
+      "cbk"
+    ],
+    "discoveredCount": 40,
+    "newCount": 0,
+    "updatedCount": 0,
+    "skippedCount": 40,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbuae": {
+        "sourceKey": "cbuae",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "rbi": {
+        "sourceKey": "rbi",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbk": {
+        "sourceKey": "cbk",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793436350992-7b29e699",
+    "startedAt": "2026-10-31T08:45:50.993Z",
+    "completedAt": "2026-10-31T08:46:00.831Z",
+    "status": "completed",
+    "triggeredBy": "cli",
+    "targetSourceKey": null,
+    "sourcesChecked": [
+      "sama",
+      "cbuae",
+      "rbi",
+      "cbk"
+    ],
+    "discoveredCount": 40,
+    "newCount": 9,
+    "updatedCount": 0,
+    "skippedCount": 31,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbuae": {
+        "sourceKey": "cbuae",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "rbi": {
+        "sourceKey": "rbi",
+        "status": "success",
+        "discovered": 10,
+        "new": 9,
+        "updated": 0,
+        "skipped": 1,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbk": {
+        "sourceKey": "cbk",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793436303905-b09f186a",
+    "startedAt": "2026-10-31T08:45:03.905Z",
+    "completedAt": "2026-10-31T08:45:06.727Z",
+    "status": "completed",
+    "triggeredBy": "cli",
+    "targetSourceKey": null,
+    "sourcesChecked": [
+      "sama",
+      "cbuae",
+      "rbi",
+      "cbk"
+    ],
+    "discoveredCount": 40,
+    "newCount": 0,
+    "updatedCount": 0,
+    "skippedCount": 40,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbuae": {
+        "sourceKey": "cbuae",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "rbi": {
+        "sourceKey": "rbi",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbk": {
+        "sourceKey": "cbk",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793436257103-7c9e3286",
+    "startedAt": "2026-10-31T08:44:17.103Z",
+    "completedAt": "2026-10-31T08:44:23.207Z",
+    "status": "completed",
+    "triggeredBy": "cli",
+    "targetSourceKey": null,
+    "sourcesChecked": [
+      "sama",
+      "cbuae",
+      "rbi",
+      "cbk"
+    ],
+    "discoveredCount": 40,
+    "newCount": 0,
+    "updatedCount": 0,
+    "skippedCount": 40,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbuae": {
+        "sourceKey": "cbuae",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "rbi": {
+        "sourceKey": "rbi",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbk": {
+        "sourceKey": "cbk",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793436152571-f2735aea",
+    "startedAt": "2026-10-31T08:42:32.571Z",
+    "completedAt": null,
+    "status": "running",
+    "triggeredBy": "manual",
+    "targetSourceKey": "rbi",
+    "sourcesChecked": [
+      "rbi"
+    ],
+    "discoveredCount": 0,
+    "newCount": 0,
+    "updatedCount": 0,
+    "skippedCount": 0,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {},
+    "error": null
+  },
+  {
+    "id": "run-1793436152215-c42cc667",
+    "startedAt": "2026-10-31T08:42:32.215Z",
+    "completedAt": "2026-10-31T08:42:32.224Z",
+    "status": "completed",
+    "triggeredBy": "manual",
+    "targetSourceKey": "sama",
+    "sourcesChecked": [
+      "sama"
+    ],
+    "discoveredCount": 0,
+    "newCount": 0,
+    "updatedCount": 0,
+    "skippedCount": 0,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "success",
+        "discovered": 0,
+        "new": 0,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793436152169-12169e09",
+    "startedAt": "2026-10-31T08:42:32.169Z",
+    "completedAt": "2026-10-31T08:42:32.209Z",
+    "status": "completed",
+    "triggeredBy": "manual",
+    "targetSourceKey": null,
+    "sourcesChecked": [
+      "sama",
+      "cbuae",
+      "rbi",
+      "cbk"
+    ],
+    "discoveredCount": 2,
+    "newCount": 0,
+    "updatedCount": 0,
+    "skippedCount": 2,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "failed",
+        "discovered": 0,
+        "new": 0,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": [
+          "SAMA connection timeout simulation"
+        ]
+      },
+      "cbuae": {
+        "sourceKey": "cbuae",
+        "status": "success",
+        "discovered": 1,
+        "new": 0,
+        "updated": 0,
+        "skipped": 1,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "rbi": {
+        "sourceKey": "rbi",
+        "status": "success",
+        "discovered": 1,
+        "new": 0,
+        "updated": 0,
+        "skipped": 1,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbk": {
+        "sourceKey": "cbk",
+        "status": "success",
+        "discovered": 0,
+        "new": 0,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793436130564-f5c7b04c",
+    "startedAt": "2026-10-31T08:42:10.564Z",
+    "completedAt": null,
+    "status": "running",
+    "triggeredBy": "manual",
+    "targetSourceKey": "rbi",
+    "sourcesChecked": [
+      "rbi"
+    ],
+    "discoveredCount": 0,
+    "newCount": 0,
+    "updatedCount": 0,
+    "skippedCount": 0,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {},
+    "error": null
+  },
+  {
+    "id": "run-1793436130248-176a95ca",
+    "startedAt": "2026-10-31T08:42:10.248Z",
+    "completedAt": "2026-10-31T08:42:10.256Z",
+    "status": "completed",
+    "triggeredBy": "manual",
+    "targetSourceKey": "sama",
+    "sourcesChecked": [
+      "sama"
+    ],
+    "discoveredCount": 0,
+    "newCount": 0,
+    "updatedCount": 0,
+    "skippedCount": 0,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "success",
+        "discovered": 0,
+        "new": 0,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793436130200-ff0915e5",
+    "startedAt": "2026-10-31T08:42:10.200Z",
+    "completedAt": "2026-10-31T08:42:10.236Z",
+    "status": "completed",
+    "triggeredBy": "manual",
+    "targetSourceKey": null,
+    "sourcesChecked": [
+      "sama",
+      "cbuae",
+      "rbi",
+      "cbk"
+    ],
+    "discoveredCount": 2,
+    "newCount": 0,
+    "updatedCount": 0,
+    "skippedCount": 2,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "failed",
+        "discovered": 0,
+        "new": 0,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": [
+          "SAMA connection timeout simulation"
+        ]
+      },
+      "cbuae": {
+        "sourceKey": "cbuae",
+        "status": "success",
+        "discovered": 1,
+        "new": 0,
+        "updated": 0,
+        "skipped": 1,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "rbi": {
+        "sourceKey": "rbi",
+        "status": "success",
+        "discovered": 1,
+        "new": 0,
+        "updated": 0,
+        "skipped": 1,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbk": {
+        "sourceKey": "cbk",
+        "status": "success",
+        "discovered": 0,
+        "new": 0,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793435973687-d1e1251c",
+    "startedAt": "2026-10-31T08:39:33.687Z",
+    "completedAt": null,
+    "status": "running",
+    "triggeredBy": "manual",
+    "targetSourceKey": "rbi",
+    "sourcesChecked": [
+      "rbi"
+    ],
+    "discoveredCount": 0,
+    "newCount": 0,
+    "updatedCount": 0,
+    "skippedCount": 0,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {},
+    "error": null
+  },
+  {
+    "id": "run-1793435973368-232e9eda",
+    "startedAt": "2026-10-31T08:39:33.368Z",
+    "completedAt": "2026-10-31T08:39:33.376Z",
+    "status": "completed",
+    "triggeredBy": "manual",
+    "targetSourceKey": "sama",
+    "sourcesChecked": [
+      "sama"
+    ],
+    "discoveredCount": 0,
+    "newCount": 0,
+    "updatedCount": 0,
+    "skippedCount": 0,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "success",
+        "discovered": 0,
+        "new": 0,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793435973313-03643f59",
+    "startedAt": "2026-10-31T08:39:33.313Z",
+    "completedAt": "2026-10-31T08:39:33.353Z",
+    "status": "completed",
+    "triggeredBy": "manual",
+    "targetSourceKey": null,
+    "sourcesChecked": [
+      "sama",
+      "cbuae",
+      "rbi",
+      "cbk"
+    ],
+    "discoveredCount": 2,
+    "newCount": 0,
+    "updatedCount": 0,
+    "skippedCount": 2,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "failed",
+        "discovered": 0,
+        "new": 0,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": [
+          "SAMA connection timeout simulation"
+        ]
+      },
+      "cbuae": {
+        "sourceKey": "cbuae",
+        "status": "failed",
+        "discovered": 1,
+        "new": 0,
+        "updated": 0,
+        "skipped": 1,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": [
+          "EPERM: operation not permitted, rename 'C:\\Users\\samar\\OneDrive\\Desktop\\Azentio\\source_monitoring\\data\\metadata\\sources.json.1793435973345.btde9q2fujd.tmp' -> 'C:\\Users\\samar\\OneDrive\\Desktop\\Azentio\\source_monitoring\\data\\metadata\\sources.json'"
+        ]
+      },
+      "rbi": {
+        "sourceKey": "rbi",
+        "status": "success",
+        "discovered": 1,
+        "new": 0,
+        "updated": 0,
+        "skipped": 1,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbk": {
+        "sourceKey": "cbk",
+        "status": "success",
+        "discovered": 0,
+        "new": 0,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793435902391-ce7267e5",
+    "startedAt": "2026-10-31T08:38:22.392Z",
+    "completedAt": "2026-10-31T08:38:32.285Z",
+    "status": "completed",
+    "triggeredBy": "cli",
+    "targetSourceKey": null,
+    "sourcesChecked": [
+      "sama",
+      "cbuae",
+      "rbi",
+      "cbk"
+    ],
+    "discoveredCount": 40,
+    "newCount": 1,
+    "updatedCount": 0,
+    "skippedCount": 39,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbuae": {
+        "sourceKey": "cbuae",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "rbi": {
+        "sourceKey": "rbi",
+        "status": "success",
+        "discovered": 10,
+        "new": 1,
+        "updated": 0,
+        "skipped": 9,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbk": {
+        "sourceKey": "cbk",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793435702364-73a53039",
+    "startedAt": "2026-10-31T08:35:02.364Z",
+    "completedAt": null,
+    "status": "running",
+    "triggeredBy": "manual",
+    "targetSourceKey": "rbi",
+    "sourcesChecked": [
+      "rbi"
+    ],
+    "discoveredCount": 0,
+    "newCount": 0,
+    "updatedCount": 0,
+    "skippedCount": 0,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {},
+    "error": null
+  },
+  {
+    "id": "run-1793435702021-bd948ab6",
+    "startedAt": "2026-10-31T08:35:02.021Z",
+    "completedAt": "2026-10-31T08:35:02.029Z",
+    "status": "completed",
+    "triggeredBy": "manual",
+    "targetSourceKey": "sama",
+    "sourcesChecked": [
+      "sama"
+    ],
+    "discoveredCount": 0,
+    "newCount": 0,
+    "updatedCount": 0,
+    "skippedCount": 0,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "success",
+        "discovered": 0,
+        "new": 0,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793435701977-3b8b6a83",
+    "startedAt": "2026-10-31T08:35:01.977Z",
+    "completedAt": "2026-10-31T08:35:02.014Z",
+    "status": "completed",
+    "triggeredBy": "manual",
+    "targetSourceKey": null,
+    "sourcesChecked": [
+      "sama",
+      "cbuae",
+      "rbi",
+      "cbk"
+    ],
+    "discoveredCount": 2,
+    "newCount": 0,
+    "updatedCount": 0,
+    "skippedCount": 2,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "failed",
+        "discovered": 0,
+        "new": 0,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": [
+          "SAMA connection timeout simulation"
+        ]
+      },
+      "cbuae": {
+        "sourceKey": "cbuae",
+        "status": "success",
+        "discovered": 1,
+        "new": 0,
+        "updated": 0,
+        "skipped": 1,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "rbi": {
+        "sourceKey": "rbi",
+        "status": "success",
+        "discovered": 1,
+        "new": 0,
+        "updated": 0,
+        "skipped": 1,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbk": {
+        "sourceKey": "cbk",
+        "status": "success",
+        "discovered": 0,
+        "new": 0,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793434910993-87934539",
+    "startedAt": "2026-10-31T08:21:50.993Z",
+    "completedAt": null,
+    "status": "running",
+    "triggeredBy": "manual",
+    "targetSourceKey": "rbi",
+    "sourcesChecked": [
+      "rbi"
+    ],
+    "discoveredCount": 0,
+    "newCount": 0,
+    "updatedCount": 0,
+    "skippedCount": 0,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {},
+    "error": null
+  },
+  {
+    "id": "run-1793434910702-c7b36c07",
+    "startedAt": "2026-10-31T08:21:50.702Z",
+    "completedAt": "2026-10-31T08:21:50.711Z",
+    "status": "completed",
+    "triggeredBy": "manual",
+    "targetSourceKey": "sama",
+    "sourcesChecked": [
+      "sama"
+    ],
+    "discoveredCount": 0,
+    "newCount": 0,
+    "updatedCount": 0,
+    "skippedCount": 0,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "success",
+        "discovered": 0,
+        "new": 0,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793434910657-08db93ef",
+    "startedAt": "2026-10-31T08:21:50.658Z",
+    "completedAt": "2026-10-31T08:21:50.694Z",
+    "status": "completed",
+    "triggeredBy": "manual",
+    "targetSourceKey": null,
+    "sourcesChecked": [
+      "sama",
+      "cbuae",
+      "rbi",
+      "cbk"
+    ],
+    "discoveredCount": 2,
+    "newCount": 0,
+    "updatedCount": 0,
+    "skippedCount": 2,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "failed",
+        "discovered": 0,
+        "new": 0,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": [
+          "SAMA connection timeout simulation"
+        ]
+      },
+      "cbuae": {
+        "sourceKey": "cbuae",
+        "status": "success",
+        "discovered": 1,
+        "new": 0,
+        "updated": 0,
+        "skipped": 1,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "rbi": {
+        "sourceKey": "rbi",
+        "status": "success",
+        "discovered": 1,
+        "new": 0,
+        "updated": 0,
+        "skipped": 1,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbk": {
+        "sourceKey": "cbk",
+        "status": "success",
+        "discovered": 0,
+        "new": 0,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793434852724-34e36db6",
+    "startedAt": "2026-10-31T08:20:52.724Z",
+    "completedAt": "2026-10-31T08:21:01.708Z",
+    "status": "completed",
+    "triggeredBy": "cli",
+    "targetSourceKey": null,
+    "sourcesChecked": [
+      "sama",
+      "cbuae",
+      "rbi",
+      "cbk"
+    ],
+    "discoveredCount": 40,
+    "newCount": 1,
+    "updatedCount": 0,
+    "skippedCount": 39,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "success",
+        "discovered": 10,
+        "new": 1,
+        "updated": 0,
+        "skipped": 9,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbuae": {
+        "sourceKey": "cbuae",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "rbi": {
+        "sourceKey": "rbi",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbk": {
+        "sourceKey": "cbk",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793433478594-509cc396",
+    "startedAt": "2026-10-31T07:57:58.594Z",
+    "completedAt": "2026-10-31T07:58:03.155Z",
+    "status": "completed",
+    "triggeredBy": "cli",
+    "targetSourceKey": null,
+    "sourcesChecked": [
+      "sama",
+      "cbuae",
+      "rbi",
+      "cbk"
+    ],
+    "discoveredCount": 40,
+    "newCount": 0,
+    "updatedCount": 0,
+    "skippedCount": 40,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbuae": {
+        "sourceKey": "cbuae",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "rbi": {
+        "sourceKey": "rbi",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbk": {
+        "sourceKey": "cbk",
+        "status": "success",
+        "discovered": 10,
+        "new": 0,
+        "updated": 0,
+        "skipped": 10,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793433175852-6c4ee495",
+    "startedAt": "2026-10-31T07:52:55.852Z",
+    "completedAt": null,
+    "status": "running",
+    "triggeredBy": "manual",
+    "targetSourceKey": "rbi",
+    "sourcesChecked": [
+      "rbi"
+    ],
+    "discoveredCount": 0,
+    "newCount": 0,
+    "updatedCount": 0,
+    "skippedCount": 0,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {},
+    "error": null
+  },
+  {
+    "id": "run-1793433175519-dd06b98b",
+    "startedAt": "2026-10-31T07:52:55.520Z",
+    "completedAt": "2026-10-31T07:52:55.528Z",
+    "status": "completed",
+    "triggeredBy": "manual",
+    "targetSourceKey": "sama",
+    "sourcesChecked": [
+      "sama"
+    ],
+    "discoveredCount": 0,
+    "newCount": 0,
+    "updatedCount": 0,
+    "skippedCount": 0,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "success",
+        "discovered": 0,
+        "new": 0,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793433175471-3bbe51ee",
+    "startedAt": "2026-10-31T07:52:55.471Z",
+    "completedAt": "2026-10-31T07:52:55.512Z",
+    "status": "completed",
+    "triggeredBy": "manual",
+    "targetSourceKey": null,
+    "sourcesChecked": [
+      "sama",
+      "cbuae",
+      "rbi",
+      "cbk"
+    ],
+    "discoveredCount": 2,
+    "newCount": 2,
+    "updatedCount": 0,
+    "skippedCount": 0,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "failed",
+        "discovered": 0,
+        "new": 0,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": [
+          "SAMA connection timeout simulation"
+        ]
+      },
+      "cbuae": {
+        "sourceKey": "cbuae",
+        "status": "success",
+        "discovered": 1,
+        "new": 1,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "rbi": {
+        "sourceKey": "rbi",
+        "status": "success",
+        "discovered": 1,
+        "new": 1,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbk": {
+        "sourceKey": "cbk",
+        "status": "success",
+        "discovered": 0,
+        "new": 0,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  },
+  {
+    "id": "run-1793433116980-6da04d74",
+    "startedAt": "2026-10-31T07:51:56.981Z",
+    "completedAt": "2026-10-31T07:52:28.626Z",
+    "status": "completed",
+    "triggeredBy": "cli",
+    "targetSourceKey": null,
+    "sourcesChecked": [
+      "sama",
+      "cbuae",
+      "rbi",
+      "cbk"
+    ],
+    "discoveredCount": 40,
+    "newCount": 40,
+    "updatedCount": 0,
+    "skippedCount": 0,
+    "failedDownloads": 0,
+    "failedExtractions": 0,
+    "sourceResults": {
+      "sama": {
+        "sourceKey": "sama",
+        "status": "success",
+        "discovered": 10,
+        "new": 10,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbuae": {
+        "sourceKey": "cbuae",
+        "status": "success",
+        "discovered": 10,
+        "new": 10,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "rbi": {
+        "sourceKey": "rbi",
+        "status": "success",
+        "discovered": 10,
+        "new": 10,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      },
+      "cbk": {
+        "sourceKey": "cbk",
+        "status": "success",
+        "discovered": 10,
+        "new": 10,
+        "updated": 0,
+        "skipped": 0,
+        "failedDownloads": 0,
+        "failedExtractions": 0,
+        "errors": []
+      }
+    },
+    "error": null
+  }
+]

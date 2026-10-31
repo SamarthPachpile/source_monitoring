@@ -1,0 +1,50 @@
+[
+  {
+    "sourceKey": "rbi",
+    "authority": "RBI",
+    "jurisdiction": "IN",
+    "region": "INDIA",
+    "startingUrl": "https://www.rbi.org.in/notifications_rss.xml",
+    "enabled": true,
+    "lastCheckedAt": "2026-10-31T09:11:35.776Z",
+    "lastSuccessfulAt": "2026-10-31T09:11:35.776Z",
+    "status": "healthy",
+    "lastError": null
+  },
+  {
+    "sourceKey": "cbuae",
+    "authority": "CBUAE",
+    "jurisdiction": "AE",
+    "region": "UAE",
+    "startingUrl": "https://rulebook.centralbank.ae/en",
+    "enabled": true,
+    "lastCheckedAt": "2026-10-31T09:11:35.769Z",
+    "lastSuccessfulAt": "2026-10-31T09:11:35.769Z",
+    "status": "healthy",
+    "lastError": null
+  },
+  {
+    "sourceKey": "cbk",
+    "authority": "CBK",
+    "jurisdiction": "KE",
+    "region": "AFRICA",
+    "startingUrl": "https://www.centralbank.go.ke/policy-procedures/legislation-and-guidelines/circulars/",
+    "enabled": true,
+    "lastCheckedAt": "2026-10-31T09:11:35.757Z",
+    "lastSuccessfulAt": "2026-10-31T09:11:35.757Z",
+    "status": "healthy",
+    "lastError": null
+  },
+  {
+    "sourceKey": "sama",
+    "authority": "SAMA",
+    "jurisdiction": "SA",
+    "region": "KSA",
+    "startingUrl": "https://rulebook.sama.gov.sa/en/sama-circulars",
+    "enabled": true,
+    "lastCheckedAt": "2026-10-31T09:11:35.794Z",
+    "lastSuccessfulAt": "2026-10-31T09:11:35.794Z",
+    "status": "healthy",
+    "lastError": null
+  }
+]
